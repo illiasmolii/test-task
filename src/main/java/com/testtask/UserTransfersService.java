@@ -59,7 +59,7 @@ public class UserTransfersService {
 	}
 
 	/**
-	 * TODO 3. Calculate the amount of transfers for user which name provided as a param
+	 * TODO 3. Calculate the total sum of transfers for user which name provided as a param
 	 *  // where he/she was a sender for the last year.
 	 *  // In case of no such user, throw {@link NoSuchUserException}
 	 *  // with the message "User with ${userName} does not exist".
